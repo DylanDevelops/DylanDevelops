@@ -11,3 +11,7 @@ Here are some things about me!
 - 📫 How to reach me: [@DylanDevGames](https://www.twitter.com/DylanDevGames)
 - ⚡ Fun fact: I love computers and coding
 - 😄 Pronouns: He/Him
+
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
