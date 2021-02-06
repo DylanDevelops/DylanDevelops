@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are some things about me!
 
 - 🔭 I’m currently working on a game using Unity and C# (Name Coming Soon)
 - 🌱 I’m currently learning C# and the world of game development
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@DylanDevGames](https://www.twitter.com/DylanDevGames)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love computers and coding
--->
