@@ -9,5 +9,5 @@ Here are some things about me!
 - 👯 I’m looking to collaborate on I'm working on a dicord bot with [@MrGriizz](https://github.com/mrGriizz)
 - 💬 Ask me about voice acting, video games, wiriting, editing, etc..
 - 📫 How to reach me: [@DylanDevGames](https://www.twitter.com/DylanDevGames)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love computers and coding
+- 😄 Pronouns: He/Him
