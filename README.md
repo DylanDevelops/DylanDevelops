@@ -11,3 +11,7 @@ Here are some things about me!
 - 📫 How to reach me: [@DylanDevGames](https://www.twitter.com/DylanDevGames)
 - ⚡ Fun fact: I love computers and coding
 - 😄 Pronouns: He/Him
+
+Most of my repositories are private so if you need any bit of code from anything I do, don't be afriad to ask me!
+
+Thanks for checking out my profile!
