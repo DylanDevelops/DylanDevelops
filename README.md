@@ -12,6 +12,6 @@ Here are some things about me!
 - ⚡ Fun fact: I love computers and coding
 - 😄 Pronouns: He/Him
 
-Most of my repositories are private so if you need any bit of code from anything I do, don't be afriad to ask me!
+Most of my repositories are private so if you need any bit of code from anything I do, don't be afraid to ask me!
 
 Thanks for checking out my profile!
