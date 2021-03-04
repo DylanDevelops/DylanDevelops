@@ -14,4 +14,8 @@ Here are some things about me!
 
 Most of my repositories are private so if you need any bit of code from anything I do, don't be afraid to ask me!
 
+### Some Previews of things I am working on:
+
+![Planet Beta Logo](https://user-images.githubusercontent.com/48571264/109911134-c0516400-7c66-11eb-8b78-bae0bb27531d.jpg)
+
 Thanks for checking out my profile!
