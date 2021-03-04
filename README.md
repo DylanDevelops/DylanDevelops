@@ -10,8 +10,8 @@ Here are some things about me!
 - 💬 Ask me about voice acting, video games, wiriting, editing, etc..
 - 📫 How to reach me: [@DylanDevGames](https://www.twitter.com/DylanDevGames)
 - ⚡ Fun fact: I love computers and coding
-- 😄 Pronouns: He/Him
+- 🎮 Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
 Most of my repositories are private so if you need any bit of code from anything I do, don't be afraid to ask me!
 
-Thanks for checking out my profile and have a great day!
+Thanks for checking out my profile!
