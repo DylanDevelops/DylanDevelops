@@ -14,4 +14,4 @@ Here are some things about me!
 
 Most of my repositories are private so if you need any bit of code from anything I do, don't be afraid to ask me!
 
-Thanks for checking out my profile!
+Thanks for checking out my profile and have a great day!
