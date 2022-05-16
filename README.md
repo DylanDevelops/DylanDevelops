@@ -1,4 +1,4 @@
-### Hey there! It's me, DylanDev! 👋
+### Hey there! It's me, Dylan R. (DylanDev)! 👋
 
 
 
