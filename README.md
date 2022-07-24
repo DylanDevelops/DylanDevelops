@@ -5,7 +5,7 @@
 Here are some things about me!
 
 - 🔭 - I’m currently working on a game called ***Elevator***
-- 🌱 - I’m currently learning C# and the world of game development and so much more!
+- 🌱 - I’m currently learning C# and the world of game development!
 - 👯 - I'm working on a bunch of different video games right now
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
 - 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
