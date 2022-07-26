@@ -23,7 +23,7 @@ Here are some things about me!
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
 </p>
 
-### Something i'm working on currently:
+### Something I'm working on currently:
 
 ![Elevator Cover Art L](https://user-images.githubusercontent.com/48571264/172124826-88e96ad8-8f6b-4131-b1c5-875358fdc866.jpg)
 
