@@ -15,8 +15,13 @@ Here are some things about me!
 ### Programming Languages:
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 </p>
 
+### Programming Languages I'm Learning:
+<p float="left" margin-left="2px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
+</p>
 
 ### Something i'm working on currently:
 
