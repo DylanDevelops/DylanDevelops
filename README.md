@@ -12,7 +12,11 @@ Here are some things about me!
 - ⚡ - Fun fact: I am colorblind!
 - 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
-Most of my repositories are private so if you need any bit of code from anything I do, don't be afraid to ask me!
+### Programming Languages:
+<p float="left" margin-left="2px">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
+</p>
+
 
 ### Something i'm working on currently:
 
