@@ -1,6 +1,4 @@
-### Hey there! It's me, Dylan R. (DylanDev)! 👋
-
-
+## **Hey there! It's me, Dylan R. (DylanDev)! 👋**
 
 Here are some things about me!
 
@@ -12,18 +10,23 @@ Here are some things about me!
 - ⚡ - Fun fact: I am colorblind!
 - 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
-### Programming Languages:
+## Programming Languages:
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 </p>
 
-### Programming Languages I'm Learning:
+## Programming Languages I'm Learning:
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
 </p>
 
-### Something I'm working on currently:
+## My Stats:
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_privat=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Something I'm working on currently:
 
 ![Elevator Cover Art L](https://user-images.githubusercontent.com/48571264/172124826-88e96ad8-8f6b-4131-b1c5-875358fdc866.jpg)
 
