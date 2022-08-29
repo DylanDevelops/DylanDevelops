@@ -15,6 +15,7 @@ Here are some things about me!
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="CSS">
 </p>
 
 ## Programming Languages I'm Learning:
