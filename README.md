@@ -7,7 +7,7 @@ Here are some things about me!
 - 🌱 - I’m currently learning C# and the world of game development!
 - 👯 - I'm working on a bunch of different video games right now
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
-- 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
+- 📫 - How to reach me: [dylanravel.com/about](https://www.dylanravel.com/about)
 - ⚡ - Fun fact: I am colorblind!
 - 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
