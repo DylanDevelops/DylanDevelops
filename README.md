@@ -4,7 +4,7 @@
 Here are some things about me!
 
 - 🔭 - I’m currently working on a game called ***[Untitled Mini Game](https://dylandevs.itch.io/untitled-mini-game)***
-- 🌱 - I’m currently learning C# and the world of game development!
+- 🌱 - I’m currently learning cyber security and penetration testing.
 - 👯 - I'm working on a bunch of different video games right now
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
 - 📫 - How to reach me: [dylanravel.com/about](https://www.dylanravel.com/about)
