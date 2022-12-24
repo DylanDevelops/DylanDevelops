@@ -29,6 +29,6 @@ Here are some things about me!
 
 ## Something I'm working on currently:
 
-![Elevator Cover Art L](https://user-images.githubusercontent.com/48571264/172124826-88e96ad8-8f6b-4131-b1c5-875358fdc866.jpg)
+![Elevator Cover Art L](https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png)
 
 Thanks for checking out my profile!
