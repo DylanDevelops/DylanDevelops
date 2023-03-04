@@ -1,4 +1,4 @@
-## **Hey there! It's me, Dylan R. (DylanDev)! 👋**
+w## **Hey there! It's me, Dylan R. (DylanDev)! 👋**
 ![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=brightgreen)
 
 Here are some things about me!
@@ -21,6 +21,7 @@ Here are some things about me!
 ## Programming Languages I'm Learning:
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width = '60' alt="swift">
 </p>
 
 ## My Stats:
