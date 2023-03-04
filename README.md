@@ -1,4 +1,4 @@
-w## **Hey there! It's me, Dylan R. (DylanDev)! 👋**
+## **Hey there! It's me, Dylan R. (DylanDev)! 👋**
 ![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=brightgreen)
 
 Here are some things about me!
