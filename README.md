@@ -11,17 +11,14 @@ Here are some things about me!
 - ⚡ - Fun fact: I am colorblind!
 - 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
+## Certifications:
+- [Responsive Web Design](https://www.freecodecamp.org/certification/dylandev/responsive-web-design)
+
 ## Programming Languages:
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="CSS">
-</p>
-
-## Programming Languages I'm Learning:
-<p float="left" margin-left="2px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width = '60' alt="swift">
 </p>
 
 ## My Stats:
