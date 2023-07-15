@@ -25,7 +25,9 @@ Here are some things about me!
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Something I'm working on currently:
+## Stuff I'm working on currently:
+
+<img src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/083c2351-2d25-45cf-b900-c8510bd151c7" width="500px" height="200px" />
 
 ![Elevator Cover Art L](https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png)
 
