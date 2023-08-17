@@ -29,7 +29,7 @@ Here are some things about me!
 ## Stuff I'm working on currently:
 
 <p align="left">
-<img alt="Notion to Outlook" src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/482f545e-4ea8-4435-b1a2-4fda503adb83" height="270px" />
+<img alt="Notion to Outlook" src="https://github.com/DylanDevelops/notion-to-outlook/assets/48571264/22d4a7a0-48ef-48ca-ae71-709ce9ae3824" height="270px" />
 <img alt="What's the weather?" src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/083c2351-2d25-45cf-b900-c8510bd151c7" height="215px" />
 <img alt="The Obsessive Shadow" src="https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png" height="300px" />
 </p>
