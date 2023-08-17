@@ -15,11 +15,11 @@ Here are some things about me!
 - [Responsive Web Design](https://www.freecodecamp.org/certification/dylandev/responsive-web-design)
 
 ## Programming Languages:
-<p float="left" margin-left="2px">
+<ul>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="CSS">
-</p>
+</ul>
 
 ## My Stats:
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
@@ -27,8 +27,10 @@ Here are some things about me!
 
 ## Stuff I'm working on currently:
 
-<img src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/083c2351-2d25-45cf-b900-c8510bd151c7" width="500px" height="200px" />
-
-![Elevator Cover Art L](https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png)
+<p align="left">
+<img src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/482f545e-4ea8-4435-b1a2-4fda503adb83" height="270px" />
+<img src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/083c2351-2d25-45cf-b900-c8510bd151c7" height="215px" />
+<img src="https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png" height="300px" />
+</p>
 
 Thanks for checking out my profile!
