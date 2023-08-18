@@ -8,7 +8,7 @@ Here are some things about me!
 - 👯 - I'm working on a bunch of different video games right now
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
 - 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
-- ⚡ - Fun fact: I am colorblind!
+- ⚡️ - Fun fact: I am colorblind!
 - 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
 
 ## Certifications:
