@@ -4,7 +4,7 @@
 Here are some things about me!
 
 - 🔭 - I’m currently working on a game called ***[The Obsessive Shadow](https://www.sleepydogstudios.net/the-obsessive-shadow)***
-- 🌱 - I’m currently learning cyber security and penetration testing.
+- 🌱 - I’m currently learning backend and API development.
 - 👯 - I'm working on a bunch of different video games right now
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
 - 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
