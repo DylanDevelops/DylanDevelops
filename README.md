@@ -24,7 +24,7 @@ Here are some things about me!
 
 ## My Stats:
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stuff I'm working on currently:
 
