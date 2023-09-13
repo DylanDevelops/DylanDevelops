@@ -18,6 +18,7 @@ Here are some things about me!
 <ul>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width = '60' alt="python">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="CSS">
 </ul>
