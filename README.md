@@ -9,7 +9,7 @@ Here are some things about me!
 - 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
 - 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
 - ⚡️ - Fun fact: I am colorblind!
-- 🎮 - Itch.IO Profile: [@DylanDevs](https://dylandevs.itch.io)
+- 📦 - View my Projects: [dylanravel.com/projects](https://www.dylanravel.com/projects)
 
 ## Certifications:
 - [Responsive Web Design](https://www.freecodecamp.org/certification/dylandev/responsive-web-design)
