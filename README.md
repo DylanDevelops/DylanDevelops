@@ -27,12 +27,4 @@ Here are some things about me!
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stuff I'm working on currently:
-
-<p align="left">
-<img alt="Notion to Outlook" src="https://github.com/DylanDevelops/notion-to-outlook/assets/48571264/22d4a7a0-48ef-48ca-ae71-709ce9ae3824" height="270px" />
-<img alt="What's the weather?" src="https://github.com/DylanDevelops/DylanDevelops/assets/48571264/083c2351-2d25-45cf-b900-c8510bd151c7" height="215px" />
-<img alt="The Obsessive Shadow" src="https://user-images.githubusercontent.com/42051134/209449969-ddbcdcb2-d316-48fb-bbb2-e619275a7db3.png" height="300px" />
-</p>
-
 Thanks for checking out my profile!
