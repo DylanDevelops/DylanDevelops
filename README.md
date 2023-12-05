@@ -11,18 +11,6 @@ Here are some things about me!
 - ⚡️ - Fun fact: I am colorblind!
 - 📦 - View my Projects: [dylanravel.com/projects](https://www.dylanravel.com/projects)
 
-## Certifications:
-- [Responsive Web Design](https://www.freecodecamp.org/certification/dylandev/responsive-web-design)
-
-## Programming Languages:
-<ul>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = '60' alt="csharp">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width = '60' alt="python">
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="CSS">
-</ul>
-
 ## My Stats:
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
