@@ -4,9 +4,9 @@
 Here are some things about me!
 
 - 🔭 - I’m currently working on a game called ***[The Obsessive Shadow](https://www.sleepydogstudios.net/the-obsessive-shadow)***
-- 🌱 - I’m currently learning backend and API development.
+- 🌱 - I’m currently learning the Java programming language.
 - 👯 - I'm working on a bunch of different video games right now
-- 💬 - Ask me about voice acting, video games, wiriting, editing, programming, Unity etc..
+- 💬 - Ask me about game development, web development, discord bot making, modding, or anything else your heart desires!
 - 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
 - ⚡️ - Fun fact: I am colorblind!
 - 📦 - View my Projects: [dylanravel.com/projects](https://www.dylanravel.com/projects)
