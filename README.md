@@ -11,10 +11,6 @@
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.dylanravel.com%2Fcontact&up_message=Send%20a%20Message&style=for-the-badge&logoColor=white&label=Contact&color=orange">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DylanDevelops?style=for-the-badge&label=Total%20Stars&color=orange">
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=100&color=F77808&background=0006FF00&center=true&vCenter=true&random=true&width=400&height=60&lines=Game+Developer;Web+Developer;Unity+Enthusiast;Project+Manager;Modder;Open+Source+Junkie" alt="Typing SVG" /></a>
-
-
 <p style="font-size: 15px;">I'm a computer science major, game development programming minor currently studying at Chapman University.</p>
 
 </div>
