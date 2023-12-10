@@ -1,18 +1,20 @@
-## **Hey there! It's me, Dylan Ravel! 👋**
-![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=brightgreen)
+<div align="center">
 
-Here are some things about me!
+## **Hey, I'm Dylan!**
 
-- 🔭 - I’m currently working on a game called ***[The Obsessive Shadow](https://www.sleepydogstudios.net/the-obsessive-shadow)***
-- 🌱 - I’m currently learning the Java programming language.
-- 👯 - I'm working on a bunch of different video games right now
-- 💬 - Ask me about game development, web development, discord bot making, modding, or anything else your heart desires!
-- 📫 - How to reach me: [dylanravel.com/contact](https://www.dylanravel.com/contact)
-- ⚡️ - Fun fact: I am colorblind!
-- 📦 - View my Projects: [dylanravel.com/projects](https://www.dylanravel.com/projects)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=100&color=F77808&background=0006FF00&center=true&vCenter=true&random=true&width=400&height=60&lines=A+Game+Developer;A+Web+Developer;A+Unity+Enthusiast;A+Project+Manager;A+Modder;A+Open+Source+Junkie" alt="Typing SVG" /></a>
 
-## My Stats:
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDevelops&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDevelops&layout=compact&langs_count=8&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DylanDevelops&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 
-Thanks for checking out my profile!
+
+![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=orange&style=for-the-badge)
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.dylanravel.com%2Fcontact&up_message=Send%20a%20Message&style=for-the-badge&logoColor=white&label=Contact&color=orange">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DylanDevelops?style=for-the-badge&label=Total%20Stars&color=orange">
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=100&color=F77808&background=0006FF00&center=true&vCenter=true&random=true&width=400&height=60&lines=Game+Developer;Web+Developer;Unity+Enthusiast;Project+Manager;Modder;Open+Source+Junkie" alt="Typing SVG" /></a>
+
+
+<p style="font-size: 15px;">I'm a computer science major, game development programming minor currently studying at Chapman University.</p>
+
+</div>
