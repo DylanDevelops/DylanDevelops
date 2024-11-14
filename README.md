@@ -9,6 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=orange&style=for-the-badge)
 <a href="https://www.dylanravel.com/contact"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-orange?style=for-the-badge"></a>
-<p style="font-size: 15px;">I'm a sophomore computer science major, game development programming minor currently studying at Chapman University.</p>
+<p style="font-size: 15px;">I'm a sophomore computer science major with a game development programming minor currently studying at Chapman University.</p>
 
 </div>
