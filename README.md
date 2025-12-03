@@ -8,7 +8,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=DylanDevelops&label=Visitors+Count&color=orange&style=for-the-badge)
-<a href="https://dylanravel.com/#contact"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-orange?style=for-the-badge"></a>
+<a href="https://dylanravel.com"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-orange?style=for-the-badge"></a>
 <p style="font-size: 15px;">I'm a junior computer science major with a game development programming minor currently studying at Chapman University.</p>
 
 </div>
